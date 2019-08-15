@@ -1,0 +1,166 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {french}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Résumé}{iii}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Remerciements}{v}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliographie}{vii}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acronymes}{xxxi}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Introduction}{3}{part*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{I\hspace {1em}De la numérisation à la numérisation de masse}{7}{part.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Historique de la numérisation}{9}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}1800-1990 : Prémisses des projets de numérisation}{10}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}1990-2000 : Passage à l'échelle}{15}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Politiques et numérisation}{21}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Leçons d'histoire pour Time Machine}{29}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}\textit {Comment} numériser en masse}{31}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Caractéristiques des projets}{32}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Enjeux des projets}{35}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Amener différents acteurs à collaborer }{35}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Financement et partenariats public-privé}{36}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Droit d'auteur}{38}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}Sortir des silos - la quête de l'interopérabilité}{40}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Enjeux techniques}{42}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Enjeux sur le contenu}{47}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Stockage sur le long-terme - préservation}{50}{subsection.2.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.6}Résumé des enjeux de la numérisation}{53}{subsection.2.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Contexte du projet Time Machine}{55}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}La recherche en humanités numériques}{55}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Le Laboratoire d'humanités numériques de l'EPFL}{58}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Venice Time Machine}{60}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Développements technologiques}{61}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Le projet Time Machine}{63}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}FET Flagships ou la recherche de financement}{63}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Time Machine, quels objectifs ?}{64}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Quelle(s) méthode(s) pour Time Machine ?}{66}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Collaboration public-privé de partenaires européens}{71}{subsection.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.5}Un réseau de Time Machines locales}{72}{subsection.3.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{II\hspace {1em}Exemples de projets de numérisation de masse }{75}{part.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Différentes typologies de projets}{77}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Rassembler une masse de données numérisées}{78}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Google Books}{78}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}HathiTrust}{83}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Agréger pour mieux valoriser}{87}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Europeana}{87}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Digital Public Library of America}{94}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Comment catégoriser ?}{99}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{III\hspace {1em}Une nouvelle voie à définir pour Time Machine}{103}{part.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Stagiaire au sein du projet Time Machine}{105}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}État des lieux avant le commencement du stage}{105}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Déroulement du stage}{108}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Rédaction de la feuille de route}{111}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Quelles réponses aux enjeux de la numérisation ?}{115}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Amener différents acteurs à collaborer}{115}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1.1}\textit {Complément} aux propositions de la feuille de route :}{116}{subsection.7.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Financement et partenariats public-privé}{117}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Droit d'auteur}{117}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.1}\textit {Complément} aux propositions de la feuille de route :}{118}{subsection.7.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Sortir des silos : enjeux techniques}{118}{section.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4.1}\textit {Complément} aux propositions de la feuille de route :}{118}{subsection.7.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}Sortir des silos : enjeux sur le contenu}{119}{section.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.1}\textit {Complément} aux propositions de la feuille de route :}{119}{subsection.7.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.6}Stockage sur le long-terme - préservation}{119}{section.7.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.7}Résumé des réponses de Time Machine aux enjeux de la numérisation}{120}{section.7.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Les innovations du projet}{121}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Mélanger les acteurs}{121}{section.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Innovations technologiques }{121}{section.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Risques et opportunités}{125}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Plateforme, usages et accessibilité}{125}{section.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.1}Franchir les barrières territoriales}{126}{subsection.9.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.2}Être mobile}{126}{subsection.9.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.3}Favoriser la cocréation}{126}{subsection.9.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.4}Moteur de recherche ou plateforme de découverte ?}{128}{subsection.9.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}Crowdsourcing et sciences citoyennes}{129}{section.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}Pour un savoir cohérent, égalitaire et éthique}{130}{section.9.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.4}Résumé des risques et opportunités pour Time Machine}{132}{section.9.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}\textit {Pourquoi} numériser en masse ? }{133}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.1}Influence de masse}{134}{section.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.2}Vers la création d'un nouvel acteur de l'information}{135}{section.10.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Conclusion}{139}{part*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Annexes}{145}{part*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Prémisses de la numérisation}{145}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Factsheet}{149}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Glossaire}{153}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Table des figures}{157}{appendix*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Liste des tableaux}{159}{appendix*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Table des matières}{161}{appendix*.21}

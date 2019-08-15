@@ -1,0 +1,15 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'memoire_main.blg'
+[45] biber-darwin:313> INFO - === Thu Aug 15, 2019, 16:06:01
+[105] Biber.pm:371> INFO - Reading 'memoire_main.bcf'
+[214] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[226] Biber.pm:3976> INFO - Processing section 0
+[245] Biber.pm:4136> INFO - Looking for bibtex format file 'bib_tm.bib' for section 0
+[272] bibtex.pm:1500> INFO - LaTeX decoding ...
+[632] bibtex.pm:1316> INFO - Found BibTeX data source 'bib_tm.bib'
+[1501] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1501] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1501] Biber.pm:3804> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[1501] Biber.pm:3810> INFO - No sort tailoring available for locale 'fr-FR'
+[1678] bbl.pm:617> INFO - Writing 'memoire_main.bbl' with encoding 'UTF-8'
+[1784] bbl.pm:720> INFO - Output to memoire_main.bbl

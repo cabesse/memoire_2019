@@ -1,0 +1,121 @@
+\PassOptionsToPackage{table,xcdraw}{xcolor}
+
+
+\documentclass[a4paper,12pt,twoside]{book}
+% encodage
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+\usepackage[english,french]{babel}
+
+\usepackage{tocbibind}
+\usepackage{pdfpages}
+
+%----------------
+% HYPERREF (liens hypertextes et métadonnées)
+%----------------
+\usepackage[pdfusetitle, pdfsubject ={Mémoire TNAH}, pdfkeywords={les mots-clés}]{hyperref}
+\author{Camille Besse - M2 TNAH}
+\title{Titre du mémoire}
+
+% ---------------
+% MISE EN PAGE
+% ---------------
+\usepackage[margin=2.5cm]{geometry} %marges
+\usepackage{setspace} % espacement qui permet ensuite de définir un interligne
+\onehalfspacing % interligne de 1.5
+\setlength\parindent{1cm} % indentation des paragraphes à 1 cm
+
+%---------------------
+% LISTES
+%---------------------
+\usepackage{enumerate}
+\usepackage{enumitem}
+
+%---------------------
+%GLOSSAIRE
+%---------------------
+\usepackage[automake, acronym, toc]{glossaries}
+\makeglossaries
+\loadglsentries{back/glossaire}
+%---------------------
+%BIBLIOGRAPHIE
+%---------------------
+\usepackage[backend=biber, sorting=nyt, style=enc, minbibnames=10, maxbibnames=10]{biblatex}
+\addbibresource{bib_tm.bib}
+
+%--------------------------
+% TABLEAUX
+%--------------------------
+\usepackage{multirow}
+\usepackage[table,xcdraw]{xcolor}
+
+%--------------------------
+% FIGURES
+%--------------------------
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{float}
+\usepackage{rotating}
+
+%--------------------------
+% NOUVELLES COMMANDES
+%--------------------------
+\newcommand{\inquote}[1]{\og{}#1\fg{}}
+
+
+%======================= DOCUMENT ======================
+
+\begin{document}
+
+\frontmatter
+\include{front/titlepage}
+\include{front/abstract}
+\include{front/thanks}
+%----BIBLIOGRAPHIE----
+\chapter{Bibliographie}
+%\addcontentsline{toc}{chapter}{Bibliographie} % Commande pour ajouter une ligne à la table des matières
+\markboth{Bibliographie}{Bibliographie}
+\nocite{*}
+%\pagestyle{myheadings}
+\printbibliography[keyword=histoire,title={\textbf{Historique de la numérisation}}]
+\printbibliography[keyword=enjeux,title={\textbf{Enjeux de la numérisation}}]
+\printbibliography[keyword=digitalhumanities,title={\textbf{Recherche en humanités numériques}}]
+\printbibliography[keyword=context,title={\textbf{Contexte du Projet Time Machine}}]
+\printbibliography[keyword=exemple,title={\textbf{Exemples de projets de numérisation}}]
+\printbibliography[keyword=gloss,title={\textbf{Glossaire}}]
+
+\printacronyms
+
+\mainmatter
+\include{main/introduction}
+\include{main/partie1}
+\include{main/partie2}
+\include{main/partie3}
+\include{main/conclusion}
+
+%-----------ANNEXES--------------
+
+\appendix
+	\part*{Annexes}	
+	\addcontentsline{toc}{part}{Annexes}
+	\chapter{Prémisses de la numérisation\label{premisse}}
+	\includepdf[fitpaper,rotateoversize]{annexe/premisse_image.pdf}
+	\includepdf[pages=2-3, fitpaper,rotateoversize]{annexe/premisse_texte.pdf}
+	\chapter{Factsheet\label{factsheet}}
+	\includepdf[pages={1,2}]{annexe/factsheet.pdf}
+
+
+\backmatter
+%-----------GLOSSAIRE--------------
+\printglossary 
+%-----------TABLES ET FIGURES--------------
+\listoffigures
+\listoftables
+\tableofcontents
+\end{document}
+
+
+
+
+
+
